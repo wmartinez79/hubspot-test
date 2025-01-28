@@ -1,0 +1,1481 @@
+
+> hubspot-api@1.0.0 start
+> node app.js
+
+connected to database
+start pulling data from HubSpot
+start processing account
+--> Starting worker process companies ...
+fetch company batch
+** worker process companies completed
+--> Starting worker process contacts ...
+fetch contact batch
+** worker process contacts completed
+--> Starting worker process meetings ...
+fetch meeting batch
+** worker process meetings completed
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887021,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380301',
+    company_domain: 'audible.com',
+    company_industry: 'COMPUTER_SOFTWARE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887681,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108363',
+    company_domain: 'canon-europe.com',
+    company_industry: null
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887680,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108150',
+    company_domain: 'mintecglobal.com',
+    company_industry: null
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887680,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108142',
+    company_domain: 'unity.com',
+    company_industry: 'COMPUTER_SOFTWARE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887681,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108359',
+    company_domain: 'wolterskluwer.com',
+    company_industry: 'PUBLISHING'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888864,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108392',
+    company_domain: 'eunasolutions.com',
+    company_industry: null
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888864,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108620',
+    company_domain: 'htjr.io',
+    company_industry: null
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887021,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380070',
+    company_domain: 'illumina.com',
+    company_industry: 'BIOTECHNOLOGY'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887021,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380076',
+    company_domain: 'siriusxm.com',
+    company_industry: 'BROADCAST_MEDIA'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888276,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380564',
+    company_domain: 'walmartconnect.com',
+    company_industry: null
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887680,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108381',
+    company_domain: 'dotdashmeredith.com',
+    company_industry: null
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887020,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380335',
+    company_domain: 'vzbiz.biz',
+    company_industry: null
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888864,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108611',
+    company_domain: 'cushmanwakefield.com',
+    company_industry: 'REAL_ESTATE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887681,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108352',
+    company_domain: 'revvitysignals.com',
+    company_industry: null
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887021,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380293',
+    company_domain: 'exitfive.com',
+    company_industry: 'RESTAURANTS'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887021,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380064',
+    company_domain: 'dnb.com',
+    company_industry: 'FINANCIAL_SERVICES'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888276,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380809',
+    company_domain: 'tgleaders.com',
+    company_industry: null
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887021,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380294',
+    company_domain: 'farfetchgroupcareers.com',
+    company_industry: null
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888864,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108651',
+    company_domain: 'arkonline.org',
+    company_industry: null
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888276,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380542',
+    company_domain: 'vincebrooks.com',
+    company_industry: null
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888864,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108644',
+    company_domain: 'esriuk.com',
+    company_industry: 'COMPUTER_SOFTWARE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888276,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380797',
+    company_domain: 'csgi.com',
+    company_industry: 'INFORMATION_TECHNOLOGY_AND_SERVICES'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888276,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380800',
+    company_domain: 'testaccount.com',
+    company_industry: null
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888276,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380808',
+    company_domain: 'nacro.org.uk',
+    company_industry: 'NON_PROFIT_ORGANIZATION_MANAGEMENT'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888276,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380576',
+    company_domain: 'ebayinc.com',
+    company_industry: 'COMPUTER_SOFTWARE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888277,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380578',
+    company_domain: 'koddi.com',
+    company_industry: 'COMPUTER_SOFTWARE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888864,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108606',
+    company_domain: 'pg.com',
+    company_industry: 'CONSUMER_GOODS'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888864,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108399',
+    company_domain: 'wish.com',
+    company_industry: 'COMPUTER_SOFTWARE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1676614878691,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '7047717356',
+    company_domain: 'company3.com',
+    company_industry: 'MEDIA_PRODUCTION'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1676614907094,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '7049276381',
+    company_domain: 'company4.com',
+    company_industry: 'AIRLINES_AVIATION'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888276,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380815',
+    company_domain: 'knowbe4.com',
+    company_industry: 'COMPUTER_NETWORK_SECURITY'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887680,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108130',
+    company_domain: 'axioshq.com',
+    company_industry: null
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887021,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380310',
+    company_domain: 'experianplc.com',
+    company_industry: 'BANKING'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887021,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380079',
+    company_domain: 'boomi.com',
+    company_industry: 'COMPUTER_SOFTWARE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888864,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108658',
+    company_domain: 'ideagen.com',
+    company_industry: 'EDUCATION_MANAGEMENT'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887021,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380336',
+    company_domain: 'webmd.com',
+    company_industry: 'ONLINE_MEDIA'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887021,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380317',
+    company_domain: 'willowtreeapps.com',
+    company_industry: 'FOOD_BEVERAGES'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888276,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380803',
+    company_domain: 'velocity.black',
+    company_industry: 'COMPUTER_SOFTWARE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888276,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380587',
+    company_domain: 'upperdeck.com',
+    company_industry: 'MECHANICAL_OR_INDUSTRIAL_ENGINEERING'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887681,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108109',
+    company_domain: 'skipthedishes.com',
+    company_industry: 'RESTAURANTS'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887680,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108126',
+    company_domain: 'radancy.com',
+    company_industry: null
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887020,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380061',
+    company_domain: 'concur.com',
+    company_industry: 'COMPUTER_SOFTWARE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887021,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380316',
+    company_domain: 'theknotworldwide.com',
+    company_industry: 'COMPUTER_SOFTWARE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888864,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108615',
+    company_domain: 'novatech.co.uk',
+    company_industry: 'COMPUTER_HARDWARE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888276,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380794',
+    company_domain: 'marketingops.com',
+    company_industry: 'PROFESSIONAL_TRAINING_COACHING'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887020,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380311',
+    company_domain: 'lifeatspotify.com',
+    company_industry: null
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887680,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108364',
+    company_domain: 'delltechnologies.com',
+    company_industry: 'CONSUMER_ELECTRONICS'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888864,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108390',
+    company_domain: 'hypcccycl.com',
+    company_industry: 'EDUCATION_MANAGEMENT'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887021,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380057',
+    company_domain: 'peak.community',
+    company_industry: 'CONSUMER_SERVICES'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887021,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380300',
+    company_domain: 'forbescommcouncil.com',
+    company_industry: 'HIGHER_EDUCATION'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888276,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380543',
+    company_domain: 'g-p.com',
+    company_industry: 'HUMAN_RESOURCES'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888276,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380561',
+    company_domain: 'sageworld.com',
+    company_industry: 'MARKETING_AND_ADVERTISING'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888864,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108868',
+    company_domain: 'niche.com',
+    company_industry: 'COMPUTER_SOFTWARE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887021,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380298',
+    company_domain: 'shiftdigital.com',
+    company_industry: 'COMPUTER_SOFTWARE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888864,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108863',
+    company_domain: 'alludo.com',
+    company_industry: 'COMPUTER_SOFTWARE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887680,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108121',
+    company_domain: 'forsta.wiki',
+    company_industry: 'COMPUTER_SOFTWARE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887020,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380292',
+    company_domain: 'stopandshop.com',
+    company_industry: 'SUPERMARKETS'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888864,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108861',
+    company_domain: 'lifeguarddh.com',
+    company_industry: 'TELECOMMUNICATIONS'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888276,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380814',
+    company_domain: 'influitive.com',
+    company_industry: 'INFORMATION_TECHNOLOGY_AND_SERVICES'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888864,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108407',
+    company_domain: 'aviso.com',
+    company_industry: 'PROFESSIONAL_TRAINING_COACHING'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888864,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108408',
+    company_domain: 'digital-science.com',
+    company_industry: 'COMPUTER_SOFTWARE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888864,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108870',
+    company_domain: 'efuse.gg',
+    company_industry: null
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888864,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108865',
+    company_domain: 'atira.bc.ca',
+    company_industry: 'NON_PROFIT_ORGANIZATION_MANAGEMENT'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887021,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380322',
+    company_domain: 'frontier.co.uk',
+    company_industry: 'COMPUTER_GAMES'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887020,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380320',
+    company_domain: 'system1.com',
+    company_industry: null
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887021,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380078',
+    company_domain: 'gtnr.it',
+    company_industry: 'COMPUTER_SOFTWARE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888864,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108657',
+    company_domain: 'bhvr.com',
+    company_industry: 'CONSUMER_ELECTRONICS'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888276,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380555',
+    company_domain: 'cyncly.com',
+    company_industry: 'COMPUTER_SOFTWARE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888276,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380804',
+    company_domain: '7shifts.com',
+    company_industry: 'EDUCATION_MANAGEMENT'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817889309,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474052856',
+    company_domain: 'copperleaf.com',
+    company_industry: 'CONSTRUCTION'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888276,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380573',
+    company_domain: 'neteasegames.com',
+    company_industry: 'COMPUTER_SOFTWARE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888864,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108626',
+    company_domain: 'indexexchange.com',
+    company_industry: 'MARKETING_AND_ADVERTISING'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887681,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108120',
+    company_domain: 'unybrands.com',
+    company_industry: null
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888276,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380810',
+    company_domain: 'tebra.com',
+    company_industry: 'COMPUTER_SOFTWARE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888276,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380807',
+    company_domain: 'ims.tech',
+    company_industry: 'INSURANCE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888276,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380548',
+    company_domain: 'team17.com',
+    company_industry: 'COMPUTER_GAMES'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887681,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108368',
+    company_domain: 'ans.co.uk',
+    company_industry: 'COMPUTER_SOFTWARE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888276,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380599',
+    company_domain: 'connectrn.com',
+    company_industry: 'TELECOMMUNICATIONS'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888276,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380796',
+    company_domain: 'pollardbanknote.com',
+    company_industry: 'MECHANICAL_OR_INDUSTRIAL_ENGINEERING'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888276,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380560',
+    company_domain: 'mtch.com',
+    company_industry: 'COMPUTER_SOFTWARE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888864,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108396',
+    company_domain: 'achievers.com',
+    company_industry: 'HUMAN_RESOURCES'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817889309,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474052853',
+    company_domain: 'homecareassistancevancouver.ca',
+    company_industry: 'HOSPITAL_HEALTH_CARE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887681,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108370',
+    company_domain: 'criticalmass.com',
+    company_industry: null
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888276,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380601',
+    company_domain: 'disneycareers.com',
+    company_industry: 'ENTERTAINMENT'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888276,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380562',
+    company_domain: 'iris.co.uk',
+    company_industry: 'INFORMATION_TECHNOLOGY_AND_SERVICES'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888276,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380579',
+    company_domain: 'square-enix-games.com',
+    company_industry: 'COMPUTER_SOFTWARE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888276,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380567',
+    company_domain: 'patientpoint.com',
+    company_industry: 'PROFESSIONAL_TRAINING_COACHING'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887680,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108358',
+    company_domain: 'resolver.com',
+    company_industry: 'MECHANICAL_OR_INDUSTRIAL_ENGINEERING'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888864,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108619',
+    company_domain: 'arrayofstars.com',
+    company_industry: 'GRAPHIC_DESIGN'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888864,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108628',
+    company_domain: 'apartments.com',
+    company_industry: 'REAL_ESTATE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887681,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108146',
+    company_domain: 'idr.co',
+    company_industry: 'COMPUTER_SOFTWARE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888864,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108400',
+    company_domain: 'reallusion.com',
+    company_industry: 'COMPUTER_SOFTWARE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887020,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380051',
+    company_domain: 'joinpavilion.com',
+    company_industry: 'EDUCATION_MANAGEMENT'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1676614707233,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '7049276372',
+    company_domain: 'company2.com',
+    company_industry: 'INSURANCE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887680,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108102',
+    company_domain: 'altrata.com',
+    company_industry: 'GAMBLING_CASINOS'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888864,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108646',
+    company_domain: 'servmeco.com',
+    company_industry: 'INFORMATION_TECHNOLOGY_AND_SERVICES'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888276,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380341',
+    company_domain: 'benevity.com',
+    company_industry: 'CONSUMER_SERVICES'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817888864,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474108621',
+    company_domain: 'lightboxre.com',
+    company_industry: 'REAL_ESTATE'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817887021,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9473380299',
+    company_domain: 'firstround.com',
+    company_industry: 'FINANCIAL_SERVICES'
+  }
+}
+{
+  actionName: 'Company Created',
+  actionDate: 1704817889309,
+  includeInAnalytics: 0,
+  companyProperties: {
+    company_id: '9474052854',
+    company_domain: 'perceptycs.com',
+    company_industry: 'PROFESSIONAL_TRAINING_COACHING'
+  }
+}
+{
+  actionName: 'Contact Created',
+  actionDate: 2023-02-17T04:48:43.189Z,
+  includeInAnalytics: 0,
+  identity: 'emailmaria@hubspot.com',
+  userProperties: {
+    contact_name: 'Maria Johnson (Sample Contact)',
+    contact_title: 'Salesperson',
+    contact_source: 'OFFLINE',
+    contact_score: 0
+  }
+}
+{
+  actionName: 'Contact Created',
+  actionDate: 2023-03-18T01:56:28.190Z,
+  includeInAnalytics: 0,
+  identity: 'john@doe.com',
+  userProperties: {
+    contact_name: 'John Doe',
+    contact_title: 'Who knows!',
+    contact_source: 'OFFLINE',
+    contact_score: 0
+  }
+}
+{
+  actionName: 'Contact Created',
+  actionDate: 2023-03-18T02:02:58.334Z,
+  includeInAnalytics: 0,
+  identity: 'jjob1993@gmail.com',
+  userProperties: {
+    contact_name: 'Jay Job',
+    contact_source: 'OFFLINE',
+    contact_score: 0
+  }
+}
+{
+  actionName: 'Contact Created',
+  actionDate: 2023-02-17T06:22:51.551Z,
+  includeInAnalytics: 0,
+  identity: 'john@company1.com',
+  userProperties: {
+    contact_name: 'John Smith',
+    contact_title: 'CEO',
+    contact_source: 'OFFLINE',
+    contact_status: 'NEW',
+    contact_score: 0
+  }
+}
+{
+  actionName: 'Contact Created',
+  actionDate: 2023-03-06T06:33:34.353Z,
+  includeInAnalytics: 0,
+  identity: 'jennifer@company4.com',
+  userProperties: {
+    company_id: '7049276381',
+    contact_name: 'Jennifer Michaels',
+    contact_title: 'COO',
+    contact_source: 'OFFLINE',
+    contact_score: 0
+  }
+}
+{
+  actionName: 'Contact Created',
+  actionDate: 2023-03-18T04:04:48.625Z,
+  includeInAnalytics: 0,
+  identity: 'johnjacob@southwest.com',
+  userProperties: {
+    contact_name: 'John Jacob',
+    contact_title: 'Pilot',
+    contact_source: 'OFFLINE',
+    contact_score: 0
+  }
+}
+{
+  actionName: 'Contact Created',
+  actionDate: 2023-03-18T04:24:09.551Z,
+  includeInAnalytics: 0,
+  identity: 'kramer@southwest.com',
+  userProperties: {
+    contact_name: 'James Kramer',
+    contact_title: 'Analyst',
+    contact_source: 'OFFLINE',
+    contact_score: 0
+  }
+}
+{
+  actionName: 'Contact Created',
+  actionDate: 2023-02-17T04:48:43.474Z,
+  includeInAnalytics: 0,
+  identity: 'bh@hubspot.com',
+  userProperties: {
+    contact_name: 'Brian Halligan (Sample Contact)',
+    contact_title: 'CEO',
+    contact_source: 'OFFLINE',
+    contact_score: 0
+  }
+}
+{
+  actionName: 'Contact Created',
+  actionDate: 2023-02-17T06:25:23.410Z,
+  includeInAnalytics: 0,
+  identity: 'michael@company4.com',
+  userProperties: {
+    company_id: '7049276381',
+    contact_name: 'Michael Gibson',
+    contact_title: 'CTO',
+    contact_source: 'OFFLINE',
+    contact_status: 'NEW',
+    contact_score: 0
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-02-17T06:30:45.471Z,
+  includeInAnalytics: 0,
+  identity: 'michael@company4.com',
+  meetingProperties: {
+    meeting_id: '15945419204',
+    meeting_title: null,
+    meeting_timestamp: '2023-02-09T04:30:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-09T08:11:15.051Z,
+  includeInAnalytics: 0,
+  identity: 'bh@hubspot.com',
+  meetingProperties: {
+    meeting_id: '16302144467',
+    meeting_title: 'testestest',
+    meeting_timestamp: '2023-03-11T08:15:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-10T20:56:33.170Z,
+  includeInAnalytics: 0,
+  identity: 'bh@hubspot.com',
+  meetingProperties: {
+    meeting_id: '16347010533',
+    meeting_title: 'ezezezezez',
+    meeting_timestamp: '2023-03-10T21:00:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-11T02:46:08.603Z,
+  includeInAnalytics: 0,
+  identity: 'bh@hubspot.com',
+  meetingProperties: {
+    meeting_id: '16347031258',
+    meeting_title: 'Test completed meeting',
+    meeting_timestamp: '2023-03-11T03:00:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-11T02:43:05.384Z,
+  includeInAnalytics: 0,
+  identity: 'bh@hubspot.com',
+  meetingProperties: {
+    meeting_id: '16347904981',
+    meeting_title: 'Testing Meeting Creation',
+    meeting_timestamp: '2023-03-11T03:45:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-11T22:21:18.457Z,
+  includeInAnalytics: 0,
+  identity: 'bh@hubspot.com',
+  meetingProperties: {
+    meeting_id: '16351568878',
+    meeting_title: 'future test 6',
+    meeting_timestamp: '2023-03-18T21:30:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-11T22:59:49.300Z,
+  includeInAnalytics: 0,
+  identity: 'bh@hubspot.com',
+  meetingProperties: {
+    meeting_id: '16356442873',
+    meeting_title: 'new ms property test',
+    meeting_timestamp: '2023-03-11T23:00:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-11T23:10:27.010Z,
+  includeInAnalytics: 0,
+  identity: 'bh@hubspot.com',
+  meetingProperties: {
+    meeting_id: '16356440039',
+    meeting_title: 'testing new ms date',
+    meeting_timestamp: '2023-03-11T23:15:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-11T23:13:33.842Z,
+  includeInAnalytics: 0,
+  identity: 'bh@hubspot.com',
+  meetingProperties: {
+    meeting_id: '16356440257',
+    meeting_title: 'testing new seconds date',
+    meeting_timestamp: '2023-03-11T23:15:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-15T22:02:58.293Z,
+  includeInAnalytics: 0,
+  identity: 'jennifer@company4.com',
+  meetingProperties: {
+    meeting_id: '16432210142',
+    meeting_title: null,
+    meeting_timestamp: '2023-03-15T22:15:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-16T23:09:15.036Z,
+  includeInAnalytics: 0,
+  identity: 'bh@hubspot.com',
+  meetingProperties: {
+    meeting_id: '16449263038',
+    meeting_title: 'feedback meeting 1',
+    meeting_timestamp: '2023-03-18T23:15:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-17T03:07:34.866Z,
+  includeInAnalytics: 0,
+  identity: 'bh@hubspot.com',
+  meetingProperties: {
+    meeting_id: '16452331498',
+    meeting_title: 'feedback meeting 2',
+    meeting_timestamp: '2023-03-17T03:15:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-17T04:10:47.888Z,
+  includeInAnalytics: 0,
+  identity: 'bh@hubspot.com',
+  meetingProperties: {
+    meeting_id: '16453996023',
+    meeting_title: 'feedback meeting 3',
+    meeting_timestamp: '2023-03-17T04:15:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-17T04:29:09.859Z,
+  includeInAnalytics: 0,
+  identity: 'bh@hubspot.com',
+  meetingProperties: {
+    meeting_id: '16453997260',
+    meeting_title: 'feedback meeting 4',
+    meeting_timestamp: '2023-03-17T04:30:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-17T04:38:04.918Z,
+  includeInAnalytics: 0,
+  identity: 'bh@hubspot.com',
+  meetingProperties: {
+    meeting_id: '16454343100',
+    meeting_title: 'feedback meeting 5',
+    meeting_timestamp: '2023-03-17T04:45:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-17T04:46:41.228Z,
+  includeInAnalytics: 0,
+  identity: 'bh@hubspot.com',
+  meetingProperties: {
+    meeting_id: '16454343408',
+    meeting_title: 'meeting ignored until past start time',
+    meeting_timestamp: '2023-03-17T05:00:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-17T05:11:26.411Z,
+  includeInAnalytics: 0,
+  identity: 'bh@hubspot.com',
+  meetingProperties: {
+    meeting_id: '16454000340',
+    meeting_title: 'meeting ignored until past start time 2',
+    meeting_timestamp: '2023-03-17T05:15:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-17T05:19:30.871Z,
+  includeInAnalytics: 0,
+  identity: 'bh@hubspot.com',
+  meetingProperties: {
+    meeting_id: '16455627455',
+    meeting_title: 'final meeting attendance test',
+    meeting_timestamp: '2023-03-17T05:30:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-17T05:37:12.391Z,
+  includeInAnalytics: 0,
+  identity: 'bh@hubspot.com',
+  meetingProperties: {
+    meeting_id: '16455684796',
+    meeting_title: 'final meeting attendance test 2',
+    meeting_timestamp: '2023-03-17T05:45:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-17T05:50:30.206Z,
+  includeInAnalytics: 0,
+  identity: 'bh@hubspot.com',
+  meetingProperties: {
+    meeting_id: '16454004433',
+    meeting_title: 'final meeting attendance tetst 3',
+    meeting_timestamp: '2023-03-17T06:00:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-17T06:04:32.188Z,
+  includeInAnalytics: 0,
+  identity: 'bh@hubspot.com',
+  meetingProperties: {
+    meeting_id: '16454644931',
+    meeting_title: 'final reschedule attended test',
+    meeting_timestamp: '2023-03-17T06:15:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-17T07:43:56.683Z,
+  includeInAnalytics: 0,
+  identity: 'bh@hubspot.com',
+  meetingProperties: {
+    meeting_id: '16456795343',
+    meeting_title: 'testing new meeting bug',
+    meeting_timestamp: '2023-03-17T07:45:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-17T07:49:08.168Z,
+  includeInAnalytics: 0,
+  identity: 'bh@hubspot.com',
+  meetingProperties: {
+    meeting_id: '16456831696',
+    meeting_title: "testing arda's bug",
+    meeting_timestamp: '2023-03-17T08:15:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-17T08:18:32.976Z,
+  includeInAnalytics: 0,
+  identity: 'bh@hubspot.com',
+  meetingProperties: {
+    meeting_id: '16457037808',
+    meeting_title: 'testing new bug',
+    meeting_timestamp: '2023-03-17T08:30:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-17T08:28:11.214Z,
+  includeInAnalytics: 0,
+  identity: 'bh@hubspot.com',
+  meetingProperties: {
+    meeting_id: '16457087713',
+    meeting_title: "testing arda's bug 2",
+    meeting_timestamp: '2023-03-17T08:45:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-17T22:31:08.806Z,
+  includeInAnalytics: 0,
+  identity: 'jennifer@company4.com',
+  meetingProperties: {
+    meeting_id: '16472006592',
+    meeting_title: null,
+    meeting_timestamp: '2023-03-17T22:45:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-18T07:36:11.116Z,
+  includeInAnalytics: 0,
+  identity: 'bh@hubspot.com',
+  meetingProperties: {
+    meeting_id: '16483875566',
+    meeting_title: 'timestamp comparison',
+    meeting_timestamp: '2023-03-18T08:00:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-19T22:41:51.519Z,
+  includeInAnalytics: 0,
+  identity: 'bh@hubspot.com',
+  meetingProperties: {
+    meeting_id: '16494141927',
+    meeting_title: 'testing action_date overhaul',
+    meeting_timestamp: '2023-03-19T22:45:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-19T23:05:54.857Z,
+  includeInAnalytics: 0,
+  identity: 'bh@hubspot.com',
+  meetingProperties: {
+    meeting_id: '16494142938',
+    meeting_title: 'final final test',
+    meeting_timestamp: '2023-03-19T23:15:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-19T23:38:52.072Z,
+  includeInAnalytics: 0,
+  identity: 'bh@hubspot.com',
+  meetingProperties: {
+    meeting_id: '16494359753',
+    meeting_title: 'second meeting test against query logic',
+    meeting_timestamp: '2023-03-19T23:45:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-03-19T23:38:04.709Z,
+  includeInAnalytics: 0,
+  identity: 'bh@hubspot.com',
+  meetingProperties: {
+    meeting_id: '16494528971',
+    meeting_title: 'optimized attendance sql query',
+    meeting_timestamp: '2023-03-19T23:45:00Z'
+  }
+}
+{
+  actionName: 'Meeting Created',
+  actionDate: 2023-04-06T19:17:14.217Z,
+  includeInAnalytics: 0,
+  identity: 'jennifer@company4.com',
+  meetingProperties: {
+    meeting_id: '16838470090',
+    meeting_title: null,
+    meeting_timestamp: '2023-04-06T19:17:08.379Z'
+  }
+}
+drain queue
+finish processing account
