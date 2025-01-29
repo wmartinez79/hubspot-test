@@ -1,0 +1,12 @@
+I refactored the project architecture by splitting the worker file into several
+ files. I used the factory design pattern to create a factory of entities that 
+ will be processed. This will help with the scalability, flexibility, and 
+ extensibility of the project. It also modularizes the code, so each factory 
+ worker will focus on its own entity.
+
+I believe the code can be improved further by:
+1. Creating more constants.
+2. Extracting functions to remove duplicate code.
+3. Validating if the logic that pulls the data of each worker can be improved to make them faster.
+
+Additionally, unit tests are missing and should be added.
