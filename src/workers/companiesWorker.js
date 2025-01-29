@@ -42,7 +42,7 @@ const process = async (domain, hubId, q, hubspotClient) => {
           );
         break;
       } catch (err) {
-        console.log("error", err);
+        console.log("Search Companies Api error: ", err);
         tryCount++;
 
         if (new Date() > hubspotClient.getExpirationDate())
