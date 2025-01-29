@@ -10,3 +10,5 @@ I believe the code can be improved further by:
 3. Validating if the logic that pulls the data of each worker can be improved to make them faster.
 
 Additionally, unit tests are missing and should be added.
+
+Note: Please validate the execution output in the file output.txt
